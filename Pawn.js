@@ -1,4 +1,3 @@
-// Klasa reprezentująca pionka
 class Pawn {
     constructor() {
         this.type = "PAWN";
